@@ -1,0 +1,61 @@
+body{
+    margin: 5%;
+ }
+ 
+ 
+    .resume{
+        text-align:center; 
+    }
+    
+    table {
+     text-align: center;
+     border-collapse: collapse;
+     width: 85%;
+}
+
+a:hover,tr:hover{
+                color: rgb(107, 168, 229);
+                text-shadow:0 0 1px rgba(223, 32, 198, 0.933);
+ }
+td,th{
+     
+    text-align: center;
+    padding: 5px;
+}
+.t{
+                background-color: rgb(234, 255, 234);
+                text-shadow: px 1px 3px black;
+    
+            }
+            .t1{
+                background-color: rgb(234, 255, 234);
+                text-shadow: px 1px 3px black;
+                font-family: Copperplate Gothic ;
+            }
+            
+            .t2{
+                background-color:rgba(238, 238, 238, 0.843);
+                font-family: Copperplate Gothic ;
+                text-shadow: px 1px 3px black;
+            }
+table, tr, th {
+             border: 1px solid rgb(255, 255, 255);
+             color:black;
+                }
+  .oj,.oj,.dj,.str,.dt,.re,.dv,.rg      {
+              
+            
+              text-align: LEFT;
+               background-color:#ffa2a2;
+              box-shadow: 1px 3px 5px rgb(95, 4, 4);
+              color: black;
+              padding: 5px;
+             border-radius: 10px;
+          }
+h4{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+}
